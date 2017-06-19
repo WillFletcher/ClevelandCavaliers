@@ -1,26 +1,22 @@
+html {
+    font-family: "Muli", "Helvetica"
+}
+
 body {
+background-color: #030E18;
+}
+
+h1,h2,p,td,ol{
+    color: #E8EFF6;
+}
+
+
+.cavsImg {
     
-background-color: #283747;
-}
-
-h1 {
-    color: #F2F3F4;
-}
-
-h2 {
-    color: #F2F3F4;
-}
-
-p {
-        color: #F2F3F4;
-}
-
-td {
-        color: #F2F3F4;
+    margin: auto;
 }
 
 
 
-.container {
-    color: #F2F3F4;
-}
+
+
