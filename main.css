@@ -18,5 +18,19 @@ h1,h2,p,td,ol{
 
 
 
+button {
+    border-radius: 2px;
+    border:none;
+    color:gainsboro;
+    background-color:darkred;
+    padding: 10px;
+    margin-left: 85px;
+    width: 80px
+    
+    
+}
 
 
+.button {
+    float: left;
+}
